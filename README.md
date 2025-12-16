@@ -41,6 +41,7 @@ El enfoque metodológico se basa en la **triangulación de datos**: observación
 *Analista Técnico Funcional | Especialista en Datos y Educación*
 
 <center>
+  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Regina_Molares-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/regina-molares)
 
 [![Notion](https://img.shields.io/badge/Portafolio-Ver_en_Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/Portfolio-DATA-REGINA-Regina-N-Molares-285b0a3d6be08016ab11e0359468c52e?source=copy_link)
