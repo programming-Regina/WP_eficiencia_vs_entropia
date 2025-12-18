@@ -23,7 +23,7 @@ El documento aborda tres dimensiones críticas de la ineficiencia organizacional
 Puede acceder al documento completo en formato PDF en el siguiente enlace:
 
 [**Descargar White Paper (PDF)**](https://github.com/programming-Regina/WP_eficiencia_vs_entropia/blob/main/White%20Paper%20-%20Eficiencia%20vs.%20Entrop%C3%ADa.pdf)
-*(Asegúrese de que el nombre del archivo coincida con el enlace)*
+
 
 ---
 
