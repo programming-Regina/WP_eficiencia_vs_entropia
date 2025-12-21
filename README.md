@@ -47,4 +47,4 @@ El enfoque metodológico se basa en la **triangulación de datos**: observación
   
 
 *© 2025. La estructura analítica y metodológica de este documento pertenecen a su autora.*
-</center>
+
